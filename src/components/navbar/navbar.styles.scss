@@ -1,0 +1,27 @@
+.page {
+  margin: 2em 0 0 0;
+}
+
+.nav {
+  margin: 0 auto;
+  max-width: 500px;
+  display: flex;
+  justify-content: space-evenly;
+  font-family: "Montserrat";
+}
+
+@media (min-width: 800px) {
+  .mobile {
+    display: none;
+  }
+}
+
+@media (max-width: 800px) {
+  .desktop {
+    display: none;
+  }
+
+  .page {
+    margin: 1em 0 0 0;
+  }
+}
