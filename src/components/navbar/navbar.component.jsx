@@ -18,6 +18,9 @@ const Navbar = () => (
       <Link className="btn btn-dark newBtn" to="/kusogaki">
         Kusogaki Crew
       </Link>
+      <Link className="btn btn-dark newBtn" to="/waifu">
+        Waifu List
+      </Link>
     </div>
 
     <div className="nav mobile">
@@ -32,6 +35,9 @@ const Navbar = () => (
       </Link>
       <Link className="btn-sm btn-dark newBtn" to="/kusogaki">
         Kusogaki Crew
+      </Link>
+      <Link className="btn-sm btn-dark newBtn" to="/waifu">
+        Waifu List
       </Link>
     </div>
   </div>

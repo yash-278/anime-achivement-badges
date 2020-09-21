@@ -11,6 +11,7 @@ import AwcSpecial from "../awcComps/awcSpecial.component";
 import AwcSeasonal from "../awcComps/awcSeasonal.component";
 import AwcMonthly from "../awcComps/awcMonthly.component";
 import AwcCollection from "../awcComps/awcCollection.component";
+import Waifu from "../waifu-list/waifu-list.component";
 
 const Card = () => (
   <div className="container">
@@ -20,6 +21,7 @@ const Card = () => (
         <Route exact path="/awc" component={Awc} />
         <Route exact path="/stats" component={Stats} />
         <Route exact path="/kusogaki" component={Kusogaki} />
+        <Route exact path="/waifu" component={Waifu} />
         <Route exact path="/awc/tier" component={AwcTier} />
         <Route exact path="/awc/genre" component={AwcGenre} />
         <Route exact path="/awc/special" component={AwcSpecial} />

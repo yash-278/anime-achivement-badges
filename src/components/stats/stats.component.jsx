@@ -31,17 +31,15 @@ const Stats = () => (
               className="image-genre"
               src="https://i.postimg.cc/j2yfPqZq/1000-Read-Re-Vamp.png"
               alt=""
-              style={{ filter: "grayscale(100%)" }}
             />
             <img
               className="image-genre"
-              src="https://i.postimg.cc/85JMkmv6/2000-Read-Re-Vamp.png"
+              src="https://i.postimg.cc/cHpYvt75/2000-Read-Re-Vamp-transparent.png"
               alt=""
-              style={{ filter: "grayscale(100%)" }}
             />
             <img
               className="image-genre"
-              src="https://i.postimg.cc/bNjk8bwZ/3000-Read-Re-Vamp.png"
+              src="https://i.postimg.cc/Y2FYJ8Mc/3000-Read-Re-Vamp-transparent.png"
               alt=""
               style={{ filter: "grayscale(100%)" }}
             />

@@ -34,6 +34,7 @@ const AwcGenre = () => (
             />
           </div>
 
+          {/* <!-- Genre Tier : Adventure  --> */}
           <div className="image-row">
             <img
               className="image-genre"
@@ -55,6 +56,7 @@ const AwcGenre = () => (
             />
           </div>
 
+          {/* <!-- Genre Tier : Comedy  --> */}
           <div className="image-row">
             <img
               className="image-genre"
@@ -75,6 +77,7 @@ const AwcGenre = () => (
             />
           </div>
 
+          {/* <!-- Genre Tier : Drama  --> */}
           <div className="image-row">
             <img
               className="image-genre"
@@ -158,6 +161,7 @@ const AwcGenre = () => (
             />
           </div>
 
+          {/* <!-- Genre Tier : Horror  --> */}
           <div className="image-row">
             <img
               className="image-genre"
@@ -179,6 +183,7 @@ const AwcGenre = () => (
             />
           </div>
 
+          {/* <!-- Genre Tier : Mahou Shoujo  --> */}
           <div className="image-row">
             <img
               className="image-genre"
@@ -200,10 +205,11 @@ const AwcGenre = () => (
             />
           </div>
 
+          {/* <!-- Genre Tier : Mecha  --> */}
           <div className="image-row">
             <img
               className="image-genre"
-              src="https://annahoj-awc.carrd.co/assets/images/gallery04/c29f1003.jpg?v75304789816951"
+              src="https://awc.nymh.moe/assets/genres/iHf8PQFzUGILJ.png"
               alt=""
               style={{ filter: "grayscale(100%)" }}
             />
@@ -215,12 +221,13 @@ const AwcGenre = () => (
             />
             <img
               className="image-genre"
-              src="https://annahoj-awc.carrd.co/assets/images/gallery04/daec0c2f.jpg?v75304789816951"
+              src="https://awc.nymh.moe/assets/genres/aY5d9M6WTOPcmg.png"
               alt=""
               style={{ filter: "grayscale(100%)" }}
             />
           </div>
 
+          {/* <!-- Genre Tier : Music  --> */}
           <div className="image-row">
             <img
               className="image-genre"
@@ -242,6 +249,7 @@ const AwcGenre = () => (
             />
           </div>
 
+          {/* <!-- Genre Tier : Mystery  --> */}
           <div className="image-row">
             <img
               className="image-genre"
@@ -284,6 +292,7 @@ const AwcGenre = () => (
             />
           </div>
 
+          {/* <!-- Genre Tier : Sci-Fi  --> */}
           <div className="image-row">
             <img
               className="image-genre"
@@ -304,6 +313,7 @@ const AwcGenre = () => (
             />
           </div>
 
+          {/* <!-- Genre Tier : SOL  --> */}
           <div className="image-row">
             <img
               className="image-genre"
@@ -325,6 +335,7 @@ const AwcGenre = () => (
             />
           </div>
 
+          {/* <!-- Genre Tier : Sport  --> */}
           <div className="image-row">
             <img
               className="image-genre"
@@ -367,6 +378,7 @@ const AwcGenre = () => (
             />
           </div>
 
+          {/* <!-- Genre Tier : Thriller  --> */}
           <div className="image-row">
             <img
               className="image-genre"
