@@ -22,7 +22,7 @@ const Profile = () => (
         student from India.
       </p>
     </div>
-    <div className="points">Points : 9 | Rank : Novice</div>
+    <div className="points">Points : 12 | Rank : Novice</div>
     <a className="btn btn-primary message" href="https://anilist.co/user/Yash/">
       AL Profile
     </a>

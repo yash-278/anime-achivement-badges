@@ -317,9 +317,8 @@ const AwcGenre = () => (
           <div className="image-row">
             <img
               className="image-genre"
-              src="https://annahoj-awc.carrd.co/assets/images/gallery04/f2936b14.jpg?v75304789816951"
+              src="https://awc.nymh.moe/assets/genres/1rhr0RZJTIypgT.png"
               alt=""
-              style={{ filter: "grayscale(100%)" }}
             />
             <img
               className="image-genre"
