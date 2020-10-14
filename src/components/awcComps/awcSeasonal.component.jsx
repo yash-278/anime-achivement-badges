@@ -9,7 +9,11 @@ const AwcSeasonal = () => (
         </div>
         <hr className="solid" />
         <div className="image-row">
-          <img className="image-kuso" src="https://files.catbox.moe/wdwlv7.jpg" alt="" />
+          <img
+            className="image-kuso"
+            src="https://awc.nymh.moe/assets/seasonal/4BsfKrQ2oZU44.gif"
+            alt=""
+          />
         </div>
       </div>
     </div>

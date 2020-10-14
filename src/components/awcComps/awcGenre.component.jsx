@@ -253,9 +253,8 @@ const AwcGenre = () => (
           <div className="image-row">
             <img
               className="image-genre"
-              src="https://annahoj-awc.carrd.co/assets/images/gallery04/3b239114.jpg?v75304789816951"
+              src="https://awc.nymh.moe/assets/genres/XkhNvzz048mV.png"
               alt=""
-              style={{ filter: "grayscale(100%)" }}
             />
             <img
               className="image-genre"
@@ -365,9 +364,8 @@ const AwcGenre = () => (
             />
             <img
               className="image-genre"
-              src="https://annahoj-awc.carrd.co/assets/images/gallery15/96fac024.jpg?v75304789816951"
+              src="https://awc.nymh.moe/assets/genres/BfRSx1j3PQ068.png"
               alt=""
-              style={{ filter: "grayscale(100%)" }}
             />
             <img
               className="image-genre"
@@ -381,9 +379,8 @@ const AwcGenre = () => (
           <div className="image-row">
             <img
               className="image-genre"
-              src="https://annahoj-awc.carrd.co/assets/images/gallery15/c45cd06b.jpg?v75304789816951"
+              src="https://awc.nymh.moe/assets/genres/kg4YtQxrVXfE.png"
               alt=""
-              style={{ filter: "grayscale(100%)" }}
             />
             <img
               className="image-genre"
