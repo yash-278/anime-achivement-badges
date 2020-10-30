@@ -65,9 +65,8 @@ const AwcGenre = () => (
             />
             <img
               className="image-genre"
-              src="https://annahoj-awc.carrd.co/assets/images/gallery03/16fa02ca.jpg?v75304789816951"
+              src="https://awc.nymh.moe/assets/genres/LQKnxdBMRYE35.png"
               alt=""
-              style={{ filter: "grayscale(100%)" }}
             />
             <img
               className="image-genre"
@@ -107,9 +106,8 @@ const AwcGenre = () => (
             />
             <img
               className="image-genre"
-              src="https://annahoj-awc.carrd.co/assets/images/gallery03/aab32a7f.jpg?v75304789816951"
+              src="https://awc.nymh.moe/assets/genres/ElMmSnbOqHLN06.png"
               alt=""
-              style={{ filter: "grayscale(100%)" }}
             />
             <img
               className="image-genre"
@@ -155,7 +153,7 @@ const AwcGenre = () => (
             />
             <img
               className="image-genre"
-              src="https://annahoj-awc.carrd.co/assets/images/gallery03/956fc8e8.jpg?v75304789816951"
+              src="https://awc.nymh.moe/assets/genres/RCAjx8wNq92yciS.png"
               alt=""
               style={{ filter: "grayscale(100%)" }}
             />
@@ -193,7 +191,7 @@ const AwcGenre = () => (
             />
             <img
               className="image-genre"
-              src="https://annahoj-awc.carrd.co/assets/images/gallery04/541ea770.jpg?v75304789816951"
+              src="https://awc.nymh.moe/assets/genres/EJ6At8SxkybM43N77.png"
               alt=""
               style={{ filter: "grayscale(100%)" }}
             />
@@ -279,9 +277,8 @@ const AwcGenre = () => (
             />
             <img
               className="image-genre"
-              src="https://annahoj-awc.carrd.co/assets/images/gallery04/b16d24ca.jpg?v75304789816951"
+              src="https://awc.nymh.moe/assets/genres/oOckZUtQhVzb.png"
               alt=""
-              style={{ filter: "grayscale(100%)" }}
             />
             <img
               className="image-genre"
@@ -415,7 +412,7 @@ const AwcGenre = () => (
           <div className="image-row">
             <img
               className="image-mastery"
-              src="https://annahoj-awc.carrd.co/assets/images/gallery16/ed56eaf6.png?v75304789816951"
+              src="https://annahoj-awc.carrd.co/assets/images/gallery16/394c74c7.png?v75304789816951"
               alt=""
               style={{ filter: "grayscale(100%)" }}
             />
@@ -478,7 +475,7 @@ const AwcGenre = () => (
           <div className="image-row">
             <img
               className="image-mastery"
-              src="https://annahoj-awc.carrd.co/assets/images/gallery16/de3f0a5f.png?v75304789816951"
+              src="https://annahoj-awc.carrd.co/assets/images/gallery16/394c74c7.png?v75304789816951"
               alt=""
               style={{ filter: "grayscale(100%)" }}
             />
@@ -523,7 +520,7 @@ const AwcGenre = () => (
           <div className="image-row">
             <img
               className="image-mastery"
-              src="https://annahoj-awc.carrd.co/assets/images/gallery16/834bf429.png?v75304789816951"
+              src="https://annahoj-awc.carrd.co/assets/images/gallery16/394c74c7.png?v75304789816951"
               alt=""
               style={{ filter: "grayscale(100%)" }}
             />

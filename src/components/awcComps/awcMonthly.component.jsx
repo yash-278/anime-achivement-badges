@@ -24,6 +24,16 @@ const AwcMonthly = () => (
             src="https://awc.nymh.moe/assets/monthly/zOvpPe4Hio3ZaNGcfn77.gif"
             alt=""
           />
+          <img
+            className="image-genre"
+            src="https://awc.nymh.moe/assets/monthly/cNPfLYCVk29.gif"
+            alt=""
+          />
+          <img
+            className="image-genre"
+            src="https://awc.nymh.moe/assets/monthly/4ubZyoR5MH17.gif"
+            alt=""
+          />
         </div>
       </div>
     </div>

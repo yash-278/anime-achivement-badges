@@ -15,10 +15,15 @@ const Stats = () => (
 
           <div className="image-row">
             <img className="image-genre" src="https://i.imgur.com/r5Wfqfz.png" alt="" />
-            <img className="image-genre" src="https://i.imgur.com/WPGCgKU.png" alt="" />
+            <img
+              className="image-genre"
+              src="https://i.postimg.cc/7YWCh2x1/2000_Episodes_Watched_ReVamp.png"
+              alt=""
+            />
             <img
               className="image-genre"
               src="https://i.postimg.cc/dQC3wmnG/3000_Episodes_Watched_ReVamp_transparent.png"
+              alt=""
             />
           </div>
           <hr className="solid" />

@@ -5,6 +5,7 @@ const AwcSeasonal = () => (
     <div className="gallery">
       <div className="gallery-kuso">
         <div>
+          <br />
           <h4>Seasonal Badges</h4>
         </div>
         <hr className="solid" />

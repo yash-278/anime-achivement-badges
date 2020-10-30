@@ -5,7 +5,7 @@ import "./profile.styles.scss";
 const Profile = () => (
   <div>
     <div className="pic-container">
-      <img className="pic" src="avatar.png" alt="Profile Picture" />
+      <img className="pic" src="avatar.png" alt="Profile" />
     </div>
     <div className="name">
       <span>Yash</span>
@@ -22,7 +22,7 @@ const Profile = () => (
         student from India.
       </p>
     </div>
-    <div className="points">Points : 12 | Rank : Novice</div>
+    <div className="points">Points : 22 | Rank : Veteran</div>
     <a className="btn btn-primary message" href="https://anilist.co/user/Yash/">
       AL Profile
     </a>
