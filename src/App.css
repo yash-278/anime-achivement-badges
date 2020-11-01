@@ -53,14 +53,24 @@ hr.solid {
   justify-content: space-evenly;
 }
 
-.image-genre {
+.image-link {
   max-width: 20%;
   margin: 10px;
 }
 
-.image-mastery {
+.image-genre {
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.image-link-mastery {
   max-width: 43%;
   margin: 10px;
+}
+
+.image-mastery {
+  max-width: 100%;
+  object-fit: contain;
 }
 
 @media (min-width: 500px) {
